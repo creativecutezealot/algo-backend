@@ -1,0 +1,7 @@
+node_modules/
+/data
+dist/
+local.env
+production.env
+package-lock.json
+.env
